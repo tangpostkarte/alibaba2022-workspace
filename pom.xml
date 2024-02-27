@@ -13,7 +13,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>01-provider-8081</module>
+        <module>provider-8081</module>
+        <module>consumer-8080</module>
     </modules>
     <properties>
         <java.version>21</java.version>
